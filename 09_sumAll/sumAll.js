@@ -11,6 +11,7 @@ const sumAll = function(num1, num2) {
         total += i;
     }
     return total;
+    //a comment
 };
 
 // Do not edit below this line
